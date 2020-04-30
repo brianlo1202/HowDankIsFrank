@@ -1,4 +1,4 @@
-maxImageNum = 10;
+maxImageNum = 11;
 clicksBtwEachBlushPicSwitch = 10;
 
 button = document.getElementById("button");
